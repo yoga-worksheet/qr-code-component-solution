@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -16,6 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshot.png)
+
+### Links
+
+- Solution URL: [https://github.com/yoga-worksheet/qr-code-component-solution](https://github.com/yoga-worksheet/qr-code-component-solution)
+- Live Site URL: [https://qr-code-component-solution-yoga.netlify.app/](https://qr-code-component-solution-yoga.netlify.app/)
 
 ### Built with
 
